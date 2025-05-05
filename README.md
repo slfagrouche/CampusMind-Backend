@@ -333,7 +333,7 @@ All information provided includes source attributions:
 ## 🔗 Related Projects
 
 ### Frontend Repository
-The frontend for this project is available at [slfagrouche/Edumind-CUNY-SUNY-AI-Agent](https://github.com/slfagrouche/Edumind-CUNY-SUNY-AI-Agent).
+The frontend for this project is available at [slfagrouche/Edumind-CUNY-SUNY-AI-Agent](https://github.com/slfagrouche/Edumind-Frontend).
 
 Features include:
 - Modern React interface with TypeScript
