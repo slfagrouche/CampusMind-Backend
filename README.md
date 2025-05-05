@@ -291,8 +291,8 @@ All information provided includes source attributions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/slfagrouche/SUNY_AI_Agent.git
-   cd SUNY_AI_Agent
+   https://github.com/slfagrouche/CampusMind-Backend.git
+   cd CampusMind-Backend
    ```
 
 2. Create a virtual environment:
