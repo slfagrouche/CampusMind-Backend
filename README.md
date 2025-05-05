@@ -2,7 +2,7 @@
 
 This is a FastAPI-based API'S for the CampusMind-CUNY-SUNY-AI-Agent, a specialized chatbot that provides information about CUNY and SUNY colleges, including details about transfers, professors, recommendations, and general information.
 
-👉 **[Try the live demo](https://CampusMind-cuny-suny-ai-agent.vercel.app/)**
+👉 **[Try the live demo](https://edumind-cuny-suny-ai-agent.vercel.app/)**
 
 ![API Architecture](demo.png)
 
