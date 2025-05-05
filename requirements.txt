@@ -1,0 +1,19 @@
+# requirements.txt
+fastapi>=0.103.1
+uvicorn[standard]>=0.23.2
+pydantic>=2.4.2
+python-dotenv>=1.0.0
+langchain>=0.0.311
+langchain-groq>=0.0.1
+langchain-together>=0.0.3
+langchain-community>=0.0.5
+langgraph>=0.0.15
+langchain-core>=0.0.15
+pymongo>=4.5.0
+opik>=0.2.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+duckduckgo-search>=3.9.0
+pypdf>=3.15.1
+tiktoken>=0.5.1
+openai>=1.2.0
