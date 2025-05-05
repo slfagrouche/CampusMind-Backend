@@ -1,8 +1,8 @@
-# Edumind-CUNY-SUNY-AI-Agent-Backend-APIS
+# CampusMind-CUNY-SUNY-AI-Agent-Backend-APIS
 
-This is a FastAPI-based API'S for the Edumind-CUNY-SUNY-AI-Agent, a specialized chatbot that provides information about CUNY and SUNY colleges, including details about transfers, professors, recommendations, and general information.
+This is a FastAPI-based API'S for the CampusMind-CUNY-SUNY-AI-Agent, a specialized chatbot that provides information about CUNY and SUNY colleges, including details about transfers, professors, recommendations, and general information.
 
-👉 **[Try the live demo](https://edumind-cuny-suny-ai-agent.vercel.app/)**
+👉 **[Try the live demo](https://CampusMind-cuny-suny-ai-agent.vercel.app/)**
 
 ![API Architecture](demo.png)
 
@@ -267,7 +267,7 @@ The content safety filter uses a detailed policy (defined in `app/policies.py`) 
 - **O3: Privacy and personal data**: Refusing to provide non-public personal data
 - **O4: Political and societal content**: Maintaining neutrality on controversial topics
 - **O5: Financial and legal advice**: Disclaiming professional financial or legal advice
-- **O6: Education-specific concerns**: Special considerations for the education domain
+- **O6: cation-specific concerns**: Special considerations for the cation domain
 
 ### Source Attribution
 
@@ -333,7 +333,7 @@ All information provided includes source attributions:
 ## 🔗 Related Projects
 
 ### Frontend Repository
-The frontend for this project is available at [slfagrouche/Edumind-CUNY-SUNY-AI-Agent](https://github.com/slfagrouche/Edumind-Frontend).
+The frontend for this project is available at [slfagrouche/CampusMind-CUNY-SUNY-AI-Agent](https://github.com/slfagrouche/CampusMind-Frontend).
 
 Features include:
 - Modern React interface with TypeScript
